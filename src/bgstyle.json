@@ -17,14 +17,14 @@
     
   },
  "move":{
-   "speed": 6
+   "speed": 5
   }
 },
 "interactivity": {
     "detect_on": "window",
     "events": {
       "onhover": {
-        "enable": true,
+        "enable": false,
         "mode": "repulse"
       },
       "onclick": {
